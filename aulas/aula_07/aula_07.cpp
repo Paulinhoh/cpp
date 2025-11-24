@@ -8,7 +8,7 @@ int main()
     int num2 = 50;
     char opc = 's';
 
-    // operadores lógicos: > < >= <= == !=
+    // operadores de comparação: > < >= <= == !=
 
     if (num1 > num2)
     {
